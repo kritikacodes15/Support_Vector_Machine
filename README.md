@@ -50,7 +50,6 @@ If you use this dataset or refer to the associated research, please cite the fol
 Çinar, İ., Koklu, M., & Tasdemir, S. (2020).  
 **Classification of Raisin Grains Using Machine Vision and Artificial Intelligence Methods.**  
 *Gazi Journal of Engineering Sciences*, **6**(3), 200–209.  
-[📄 Link to Article (DergiPark)](https://dergipark.org.tr/en/pub/gjes/issue/58252/792155)
 
 ### 📦 Dataset Citation
 Çinar, İ., Koklu, M., & Tasdemir, S. (2020).  
